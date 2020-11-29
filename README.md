@@ -9,6 +9,7 @@ Develop a model to predict the total dollar amount that customers are willing to
 -	Annual Salary 
 -	Credit Card Debt 
 -	Net Worth 
+.
 
 ## What are ANNs?
 The brain has over 100 billion neurons communicating through electrical and chemical signals. Neurons communicate with each other and help us see, think, and generate ideas.
